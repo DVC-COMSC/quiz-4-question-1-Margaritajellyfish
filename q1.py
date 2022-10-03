@@ -23,4 +23,4 @@ while True:
         if number == 10:
             break
         else: continue
-print(even)
+print(str(even))
