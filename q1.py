@@ -22,3 +22,4 @@ while True:
         even = 0
         number += 1
         continue
+print(even)
