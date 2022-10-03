@@ -19,8 +19,8 @@ while True:
             break
         else: continue
     else:
-        even = 0
+        even = int(0)
         if number == 10:
             break
         else: continue
-print(str(even))
+print(even)
